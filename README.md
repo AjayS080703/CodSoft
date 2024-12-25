@@ -1,3 +1,3 @@
 # CodSoft 
-<P>this is my first internship</P>
-<h1> my first task </h1>
+<P>this is my first internship program </P>
+<p>where i have done three tasks with the use of java programming <p>
